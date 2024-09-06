@@ -1,4 +1,11 @@
 transformers
 gradio
+gradio_client
 timm
 torchvision
+sentence-transformers
+datasets
+soundfile
+librosa
+phonemizer
+inflect
